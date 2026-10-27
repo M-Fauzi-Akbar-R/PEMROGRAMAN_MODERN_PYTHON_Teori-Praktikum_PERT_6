@@ -1,0 +1,445 @@
+{
+  "jumlah_post_diterima": 100,
+  "batas_minimum_panjang_judul": 30,
+  "jumlah_post_terpilih": 73,
+  "post_terpilih_urut_panjang_judul": [
+    {
+      "id": 50,
+      "userId": 5,
+      "title": "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem",
+      "panjang_judul": 79
+    },
+    {
+      "id": 43,
+      "userId": 5,
+      "title": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+      "panjang_judul": 78
+    },
+    {
+      "id": 60,
+      "userId": 6,
+      "title": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+      "panjang_judul": 76
+    },
+    {
+      "id": 84,
+      "userId": 9,
+      "title": "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut",
+      "panjang_judul": 76
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "panjang_judul": 74
+    },
+    {
+      "id": 63,
+      "userId": 7,
+      "title": "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit",
+      "panjang_judul": 72
+    },
+    {
+      "id": 42,
+      "userId": 5,
+      "title": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+      "panjang_judul": 68
+    },
+    {
+      "id": 16,
+      "userId": 2,
+      "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+      "panjang_judul": 67
+    },
+    {
+      "id": 52,
+      "userId": 6,
+      "title": "qui enim et consequuntur quia animi quis voluptate quibusdam",
+      "panjang_judul": 60
+    },
+    {
+      "id": 85,
+      "userId": 9,
+      "title": "dolore veritatis porro provident adipisci blanditiis et sunt",
+      "panjang_judul": 60
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "panjang_judul": 59
+    },
+    {
+      "id": 96,
+      "userId": 10,
+      "title": "quaerat velit veniam amet cupiditate aut numquam ut sequi",
+      "panjang_judul": 57
+    },
+    {
+      "id": 45,
+      "userId": 5,
+      "title": "ut numquam possimus omnis eius suscipit laudantium iure",
+      "panjang_judul": 55
+    },
+    {
+      "id": 49,
+      "userId": 5,
+      "title": "laborum non sunt aut ut assumenda perspiciatis voluptas",
+      "panjang_judul": 55
+    },
+    {
+      "id": 73,
+      "userId": 8,
+      "title": "consequuntur deleniti eos quia temporibus ab aliquid at",
+      "panjang_judul": 55
+    },
+    {
+      "id": 21,
+      "userId": 3,
+      "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
+      "panjang_judul": 54
+    },
+    {
+      "id": 51,
+      "userId": 6,
+      "title": "soluta aliquam aperiam consequatur illo quis voluptas",
+      "panjang_judul": 53
+    },
+    {
+      "id": 74,
+      "userId": 8,
+      "title": "enim unde ratione doloribus quas enim ut sit sapiente",
+      "panjang_judul": 53
+    },
+    {
+      "id": 79,
+      "userId": 8,
+      "title": "pariatur consequatur quia magnam autem omnis non amet",
+      "panjang_judul": 53
+    },
+    {
+      "id": 99,
+      "userId": 10,
+      "title": "temporibus sit alias delectus eligendi possimus magni",
+      "panjang_judul": 53
+    },
+    {
+      "id": 38,
+      "userId": 4,
+      "title": "explicabo et eos deleniti nostrum ab id repellendus",
+      "panjang_judul": 51
+    },
+    {
+      "id": 59,
+      "userId": 6,
+      "title": "qui commodi dolor at maiores et quis id accusantium",
+      "panjang_judul": 51
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "nesciunt iure omnis dolorem tempora et accusantium",
+      "panjang_judul": 50
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+      "panjang_judul": 50
+    },
+    {
+      "id": 17,
+      "userId": 2,
+      "title": "fugit voluptas sed molestias voluptatem provident",
+      "panjang_judul": 49
+    },
+    {
+      "id": 28,
+      "userId": 3,
+      "title": "delectus ullam et corporis nulla voluptas sequi",
+      "panjang_judul": 47
+    },
+    {
+      "id": 61,
+      "userId": 7,
+      "title": "voluptatem doloribus consectetur est ut ducimus",
+      "panjang_judul": 47
+    },
+    {
+      "id": 81,
+      "userId": 9,
+      "title": "tempora rem veritatis voluptas quo dolores vero",
+      "panjang_judul": 47
+    },
+    {
+      "id": 35,
+      "userId": 4,
+      "title": "id nihil consequatur molestias animi provident",
+      "panjang_judul": 46
+    },
+    {
+      "id": 36,
+      "userId": 4,
+      "title": "fuga nam accusamus voluptas reiciendis itaque",
+      "panjang_judul": 45
+    },
+    {
+      "id": 68,
+      "userId": 7,
+      "title": "odio quis facere architecto reiciendis optio",
+      "panjang_judul": 44
+    },
+    {
+      "id": 75,
+      "userId": 8,
+      "title": "dignissimos eum dolor ut enim et delectus in",
+      "panjang_judul": 44
+    },
+    {
+      "id": 82,
+      "userId": 9,
+      "title": "laudantium voluptate suscipit sunt enim enim",
+      "panjang_judul": 44
+    },
+    {
+      "id": 39,
+      "userId": 4,
+      "title": "eos dolorem iste accusantium est eaque quam",
+      "panjang_judul": 43
+    },
+    {
+      "id": 48,
+      "userId": 5,
+      "title": "ut voluptatem illum ea doloribus itaque eos",
+      "panjang_judul": 43
+    },
+    {
+      "id": 67,
+      "userId": 7,
+      "title": "aliquid eos sed fuga est maxime repellendus",
+      "panjang_judul": 43
+    },
+    {
+      "id": 80,
+      "userId": 8,
+      "title": "labore in ex et explicabo corporis aut quas",
+      "panjang_judul": 43
+    },
+    {
+      "id": 18,
+      "userId": 2,
+      "title": "voluptate et itaque vero tempora molestiae",
+      "panjang_judul": 42
+    },
+    {
+      "id": 54,
+      "userId": 6,
+      "title": "sit asperiores ipsam eveniet odio non quia",
+      "panjang_judul": 42
+    },
+    {
+      "id": 83,
+      "userId": 9,
+      "title": "odit et voluptates doloribus alias odio et",
+      "panjang_judul": 42
+    },
+    {
+      "id": 97,
+      "userId": 10,
+      "title": "quas fugiat ut perspiciatis vero provident",
+      "panjang_judul": 42
+    },
+    {
+      "id": 19,
+      "userId": 2,
+      "title": "adipisci placeat illum aut reiciendis qui",
+      "panjang_judul": 41
+    },
+    {
+      "id": 22,
+      "userId": 3,
+      "title": "dolor sint quo a velit explicabo quia nam",
+      "panjang_judul": 41
+    },
+    {
+      "id": 72,
+      "userId": 8,
+      "title": "sint hic doloribus consequatur eos non id",
+      "panjang_judul": 41
+    },
+    {
+      "id": 76,
+      "userId": 8,
+      "title": "doloremque officiis ad et non perferendis",
+      "panjang_judul": 41
+    },
+    {
+      "id": 77,
+      "userId": 8,
+      "title": "necessitatibus quasi exercitationem odio",
+      "panjang_judul": 40
+    },
+    {
+      "id": 89,
+      "userId": 9,
+      "title": "sint soluta et vel magnam aut ut sed qui",
+      "panjang_judul": 40
+    },
+    {
+      "id": 29,
+      "userId": 3,
+      "title": "iusto eius quod necessitatibus culpa ea",
+      "panjang_judul": 39
+    },
+    {
+      "id": 31,
+      "userId": 4,
+      "title": "ullam ut quidem id aut vel consequuntur",
+      "panjang_judul": 39
+    },
+    {
+      "id": 58,
+      "userId": 6,
+      "title": "voluptatum itaque dolores nisi et quasi",
+      "panjang_judul": 39
+    },
+    {
+      "id": 24,
+      "userId": 3,
+      "title": "autem hic labore sunt dolores incidunt",
+      "panjang_judul": 38
+    },
+    {
+      "id": 90,
+      "userId": 9,
+      "title": "ad iusto omnis odit dolor voluptatibus",
+      "panjang_judul": 38
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "title": "in quibusdam tempore odit est dolorem",
+      "panjang_judul": 37
+    },
+    {
+      "id": 27,
+      "userId": 3,
+      "title": "quasi id et eos tenetur aut quo autem",
+      "panjang_judul": 37
+    },
+    {
+      "id": 95,
+      "userId": 10,
+      "title": "id minus libero illum nam ad officiis",
+      "panjang_judul": 37
+    },
+    {
+      "id": 100,
+      "userId": 10,
+      "title": "at nam consequatur ea labore ea harum",
+      "panjang_judul": 37
+    },
+    {
+      "id": 64,
+      "userId": 7,
+      "title": "et fugit quas eum in in aperiam quod",
+      "panjang_judul": 36
+    },
+    {
+      "id": 94,
+      "userId": 10,
+      "title": "qui qui voluptates illo iste minima",
+      "panjang_judul": 35
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "dolorem eum magni eos aperiam quia",
+      "panjang_judul": 34
+    },
+    {
+      "id": 20,
+      "userId": 2,
+      "title": "doloribus ad provident suscipit at",
+      "panjang_judul": 34
+    },
+    {
+      "id": 46,
+      "userId": 5,
+      "title": "aut quo modi neque nostrum ducimus",
+      "panjang_judul": 34
+    },
+    {
+      "id": 30,
+      "userId": 3,
+      "title": "a quo magni similique perferendis",
+      "panjang_judul": 33
+    },
+    {
+      "id": 47,
+      "userId": 5,
+      "title": "quibusdam cumque rem aut deserunt",
+      "panjang_judul": 33
+    },
+    {
+      "id": 71,
+      "userId": 8,
+      "title": "et iusto veniam et illum aut fuga",
+      "panjang_judul": 33
+    },
+    {
+      "id": 78,
+      "userId": 8,
+      "title": "quam voluptatibus rerum veritatis",
+      "panjang_judul": 33
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "title": "et ea vero quia laudantium autem",
+      "panjang_judul": 32
+    },
+    {
+      "id": 37,
+      "userId": 4,
+      "title": "provident vel ut sit ratione est",
+      "panjang_judul": 32
+    },
+    {
+      "id": 55,
+      "userId": 6,
+      "title": "sit vel voluptatem et non libero",
+      "panjang_judul": 32
+    },
+    {
+      "id": 69,
+      "userId": 7,
+      "title": "fugiat quod pariatur odit minima",
+      "panjang_judul": 32
+    },
+    {
+      "id": 33,
+      "userId": 4,
+      "title": "qui explicabo molestiae dolorem",
+      "panjang_judul": 31
+    },
+    {
+      "id": 56,
+      "userId": 6,
+      "title": "qui et at rerum necessitatibus",
+      "panjang_judul": 30
+    },
+    {
+      "id": 65,
+      "userId": 7,
+      "title": "consequatur id enim sunt et et",
+      "panjang_judul": 30
+    },
+    {
+      "id": 92,
+      "userId": 10,
+      "title": "ratione ex tenetur perferendis",
+      "panjang_judul": 30
+    }
+  ]
+}
